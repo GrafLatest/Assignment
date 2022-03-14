@@ -1,12 +1,7 @@
 #!/bin/bash
 
-#bash to check ping and telnet status.
+#bash to check telnet status.
 
-#set -x;
-
-#
-
-#clear
 
 ### Setting basic parameters ###
 
