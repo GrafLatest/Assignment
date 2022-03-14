@@ -1,0 +1,3 @@
+ynet.co.il,443
+gmail.com,80
+walla.com,443
